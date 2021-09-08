@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">Green Water Events</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="fb_app_ID">2125086104444571</string>
+    <string name="fb_login_protocol_scheme">fb_2125086104444571</string>
+
+    <string name="app_ID">AIzaSyCFOPIypZ5DhSV89DqLLU5JUXbCl4UQcn4</string>
+    <string name="client_id">785138911884-jdmpj2jpice69tcf8bujm5l8do0rsfut.apps.googleusercontent.com</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Capture The Moments!</string>
+    <string name="slide_1_desc">Get inspired from over a collection of wedding photos!</string>
+
+    <string name="slide_2_title">Forever &amp; Ever!</string>
+    <string name="slide_2_desc">Immortalize your special day!</string>
+
+    <string name="slide_3_title">Materialize Your Dreams!</string>
+    <string name="slide_3_desc">Unforgettable warm &amp; memorable experience!</string>
+
+    <string name="nav_header">Green Water Events</string>
+    <string name="photography">Photography</string>
+    <string name="videography">Videography</string>
+    <string name="outdoor_shoot">Outdoor Shoot</string>
+    <string name="customer_appreciation">What Our Customers Say</string>
+
+    <string name="who_we_are">Who We Are?</string>
+    <string name="vendors">Vendors</string>
+    <string name="photos">Photos</string>
+    <string name="videos">Videos</string>
+    <string name="website">Website</string>
+
+    <string name="desc_1">Green water Digital studio is a Kerala based premier wedding event photography firm. We have a team of immensely skilled, highly experienced, excellent professionals who constantly strives for meeting our client’s expectations. Comprehensive services and timely delivery are our uniqueness.
+        \n\n We are specialized in all types of photography and videography services including ultimate coverage for your events like weddings, birthday parties, get-togethers, and other functions you need to memorize. Our photographers capture the sweet events in your life in a most appropriate way to keep your blissful memories everlasting. Our ultimate focus lies with realizing our client’s dreams true.
+        \n\n Shooting a wedding or the photography is a Daring venture. But figuring out what you need is pretty challenging and really interesting to us. Because there may have a lot of firms around you, but the point that distinguishes us from others is our amenities are ultimately geared towards enabling your dreams come true and to deliver the best possible images to our clients in a very personal style.
+        \n\n To keep your precious moments eternal, Visit Green Water…</string>
+    <string name="desc_2">For all your wedding inspirations and ideas, we have a gallery of never ending photos that will keep you busy!</string>
+    <string name="desc_3">Every couple has a story to tell, and we have their wedding stories on our Videography section. Inspiration is impulsive, after all.</string>
+    <string name="desc_4">Visit our website <a href="http://greenwaterevents.com/">Green Water Events</a>.</string>
+
+    <string name="greenwater_desc">Green water Digital studio is a Kerala based premier wedding event photography firm. We have a team of immensely skilled, highly experienced, excellent professionals who constantly strives for meeting our client’s expectations. Comprehensive services and timely delivery are our uniqueness.We are specialized in all types of photography and videography services including ultimate coverage for your events like weddings, birthday parties, get-togethers, and other functions you need to memorize. Our photographers capture the sweet events in your life in a most appropriate way to keep your blissful memories everlasting. Our ultimate focus lies with realizing our client’s dreams true.</string>
+    <string name="photography_desc">As we everyone knows photography is the art of capturing and processing photographs in a sensible way. We capture most beautiful photographs of your special events including weddings, engagements, birthday parties, religious ceremonies and all other awesome occasions. Our professionals know the best way to produce Creative, lively and incredible photographs for you.</string>
+    <string name="videography_desc">Do you wish to make your wonderful day more cherishable? We know you have such a strong desire in your heart; because we can read the mind of our clients. Don’t worry; Green water is here for you. Green water is specialized in wedding videography, Outdoor videography, corporate videography and all other arenas of the same.\nPerfectly captured videos with all of its beauty will keep your precious and lovely moments everlasting and sweeter for lifelong. Green water is always dedicated to provide our best in videography. We are committed to convert your special dreams into reality. When your dreams come into reality, No doubt; it will give you something special to remember! We are always providing the amazing videography services for our clients at the reasonable rate. Our priority always lies with quality &amp; customers and not with price.</string>
+    <string name="outdoor_desc">Capturing your smashing moments in an outdoor setup is a huge undertaking. The perfection of an outdoor portrait or shooting always depends on various factors including the season, the location, composition and framing and above all your tastes; our client’s.We are always trying to fill your moments with scenic beauty of nature to make them more colorful.</string>
+    <string name="show_all">Show All</string>
+
+    <string name="service_desc">We are equipped by all means to provide our clients almost every service available today in the field of photography and videography. Our wide range of comprehensive services includes:</string>
+    <string name="bulleted_service_list">
+        <li> Stage Decorations</li>
+        \n<li> Luxury Cars for rent</li>
+        \n<li> Candid shoots</li>
+        \n<li> Candid photos</li>
+        \n<li> Wedding Photography</li>
+        \n<li> Engagement photography</li>
+        \n<li> Wedding Videography</li>
+        \n<li> Live coverage of birthday parties &amp; corporate events</li>
+        \n<li> Studio Portraits</li>
+        \n<li> Fashion/Modeling photography</li>
+        \n<li> Family photography</li>
+        \n<li> Video Editing and Mixing</li>
+        \n<li> Outdoor photography</li>
+        \n<li> Outdoor videography</li>
+        \n<li> Live Streaming</li>
+        \n<li> All types of album prints</li>
+        \n<li> New trendy album makings and HD quality printing</li>
+        \n<li> 4k Resolution cameras (Photo and Video)</li>
+        \n<li> All high –tec Cinematic equipments</li>
+        \n<li> Wedding shoot, Wedding pre shoot,Outdoor shoot,Birthday events,D j party,Stage events,inaguations,Short films,Fashion photography,LED TV,Dancers,portfolio,live streaming, Underwater shooting, Helicam shooting, Live editing and live printing, other Compliments and Gifts ETC</li>
+    </string>
+    <string name="service_desc2">Exclusive streaming of your events from Green water!!!</string>
+    <string name="service_desc3">People always love to attend their dear’s events and ceremonies. But when it’s difficult to attend a live event, we furnish to watch that awesome moments in real-time on television or over the internet.\n\n
+    Live streaming is one of the technologies of modern digital era that allows users to view and broadcast video content using a camera and a computer through the internet. In this decade of technology, Green water can broadcast every kind of your events including seminars, workshops, corporate events, religious ceremonies, birthday parties, weddings and all through live streaming with incredibly low cost. This technology enables you not to miss those valuable moments regardless where you are sitting in or what you are doing!! This completely equips you to attend the event virtually.</string>
+
+    <string name="address">Pettah, Trivandrum, Kerala\nIndia, Pin - 695024</string>
+    <string name="phone">+91 7559939955</string>
+    <string name="mail">greenwaterevents@gmail.com\ninfo@greenwaterevents.com</string>
+    <string name="enquiry_form">Enquiry Form</string>
+    <string name="name_">Name *</string>
+    <string name="phone_">Email *</string>
+    <string name="email_">Phone *</string>
+    <string name="write_message">Write your message</string>
+    <string name="answer_it">Answer It: 1 + 5</string>
+    <string name="send_mail">Send Mail</string>
+
+    <string name="go_to_fb">Visit Facebook Page</string>
+    <string name="go_to_youtube">Visit Youtube Channel</string>
+
+    <string name="err_msg_name">Enter your name</string>
+    <string name="err_msg_email">Enter a valid email address</string>
+    <string name="err_msg_phoneNumber">Enter a valid  phone number</string>
+    <string name="privacy_policy">PRIVACY POLICY</string>
+    <string name="contact_us">CONTACT US</string>
+    <string name="about_us">ABOUT US</string>
+    <string name="communicate">Communicate</string>
+    <string name="our_services">OUR SERVICES</string>
+    <string name="videography_menu">VIDEOGRAPHY</string>
+    <string name="photography_menu">PHOTOGRAPHY</string>
+    <string name="home_menu">HOME</string>
+
+    <array name="appreciations">
+        <item>The Competency and efficiency by Green Water professionals is profound and superb by
+            all means.
+        </item>
+        <item>The most appealing uniqueness of Green Water is their style of approach towards every
+            kind of customers.
+        </item>
+        <item>We got real inspiration and motivation from Green water. They taught us the real
+            meaning of photography by using their best potentials in an appropriate manner.
+        </item>
+        <item>We feel proud of GREEN WATER on the professionalism, commitment and enthusiasm by its
+            professionals.
+        </item>
+        <item>Green Water Events consists of highly skilled and passionate individuals who can change the look and
+            feel of the wedding by using out of the box ideas.
+        </item>
+        <item>With a professional approach, the team at Green Water Events can change the wedding
+            day to a whole new level which brings joy.
+        </item>
+        <item>Green Water Events is a company of highly talented photographers
+            who are passionate about engagement and wedding photography and videography.
+        </item>
+        <item>Green Water Events is wedding photography and wedding movie making company based in Kerala with
+            a vision to change the look and style of the traditional wedding.
+        </item>
+        <item>Green Water Events is an event management company in Kerala which provides the best photography
+            services tailored for Muslim weddings at an affordable rate.
+        </item>
+    </array>
+
+    <array name="customerNames">
+        <item>Sruthi</item>
+        <item>Fersna</item>
+        <item>Harris</item>
+        <item>Neethu</item>
+        <item>Atheena</item>
+        <item>Midhu</item>
+        <item>Sneha</item>
+        <item>Nikhil</item>
+        <item>Fathima</item>
+    </array>
+
+    <array name="candidPhotographyTitles">
+        <item>Mehendi At Home? Here Are Some Cool Decor Ideas To Do Up Your House On A Budget!</item>
+        <item>Mulit-Cultural Wedding In Thailand With Two Ceremonies &amp; A Gorgeous View!</item>
+        <item>The Prettiest Pastel Lehengas We Spotted that Are Pink Or Peach!</item>
+        <item>Trending Floral Hairstyles On Instagram For Your Mehendi!</item>
+        <item>Pretty Fairtytale-ish Bangalore Engagement With A Kanjeevaram Bride!</item>
+        <item>Dreamy Winter Wedding In Delhi With A Fairytale Bridal Lehanga!</item>
+        <item>When AntuMoh Gets Hitched: All Outfit Details And Unseen Pictures Inside!</item>
+        <item>Gorgeous Goa Wedding With The Prettiest Decor Ideas!</item>
+        <item>Glam Delhi Wedding With A Bride In Unique Bridal Outfits!</item>
+        <item>Simple Intimate Delhi Wedding With A Dash Of Fun!</item>
+    </array>
+
+</resources>
